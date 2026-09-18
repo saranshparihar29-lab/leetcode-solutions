@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -20,4 +21,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
