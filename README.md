@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Math
@@ -25,4 +27,16 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
