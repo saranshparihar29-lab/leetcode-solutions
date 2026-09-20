@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
