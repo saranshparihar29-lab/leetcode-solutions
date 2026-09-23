@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
