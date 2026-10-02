@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0268-missing-number) |
 ## Hash Table
@@ -58,6 +59,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0268-missing-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
