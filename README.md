@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0268-missing-number) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saranshparihar29-lab/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
